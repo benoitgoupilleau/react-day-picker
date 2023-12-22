@@ -32,8 +32,8 @@ const presetClassicConfig = {
 const config = {
   title: 'React DayPicker',
   tagline: 'Date Picker Component for React',
-  url: 'https://react-day-picker.js.org',
-  baseUrl: '/',
+  url: 'https://benoitgoupilleau.github.io',
+  baseUrl: '/react-day-picker/',
   favicon: 'images/favicon.png',
   organizationName: 'gpbl',
   projectName: 'react-day-picker',
